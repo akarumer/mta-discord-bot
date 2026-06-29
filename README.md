@@ -8,7 +8,7 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 ---
 
-🌐 Разработчик: akarumay.xyz
+🌐 Разработчик: https://akarumay.xyz
 
 ## ✨ Основные возможности
 
