@@ -1,0 +1,6 @@
+disnake==2.9.2
+pymysql==1.1.0
+Pillow==10.1.0
+ping3==4.0.4
+requests==2.31.0
+python-dotenv==1.0.0
