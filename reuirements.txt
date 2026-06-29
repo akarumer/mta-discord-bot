@@ -1,0 +1,4 @@
+disnake
+Pillow
+datetime
+colorama
