@@ -1,12 +1,14 @@
 # made by akarumay.xyz
 
-> Многофункциональный Discord бот для интеграции с MTA серверами
+> Многофункциональный Discord бот для интеграции с MTA серверами 2024 года
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
 ![Disnake](https://img.shields.io/badge/Disnake-2.9+-green)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 ---
+
+🌐 Разработчик: akarumay.xyz
 
 ## ✨ Основные возможности
 
